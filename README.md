@@ -1,4 +1,4 @@
-### Hi there 👋
+### Trying to be a better programmer & person
 
 <!--
 **YonWaiHung/YonWaiHung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
