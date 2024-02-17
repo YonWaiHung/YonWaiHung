@@ -1,4 +1,4 @@
-### Trying to be a better programmer & person
+### Constantly striving to be a better programmer & excited for technologies in general.
 
 <!--
 **YonWaiHung/YonWaiHung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
